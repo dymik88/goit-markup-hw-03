@@ -330,6 +330,8 @@ body {
 /* ------------------------------------portfolio main section------------------------------ */
 /* --------------------------------------------section-buttons------------------------------- */
 .section-filter {
+  width: 1600px;
+  border-color: var(--first-button-color);
 }
 .filter {
   display: flex;
