@@ -183,7 +183,9 @@ body {
 }
 
 /* ------------------------Rules_____________---------- */
-.rules {
+.section-rule {
+  width: 1600px;
+  background-color: var(--first-button-color);
 }
 .section-rule-list {
   display: flex;
@@ -211,7 +213,9 @@ body {
 }
 
 /* ---------------------Section what we do---------------------------------- */
-.section-doing {
+.section-work {
+  width: 1600px;
+  background-color: var(--first-button-color);
 }
 .section-head-doing {
   padding-bottom: 50px;
