@@ -284,16 +284,14 @@ body {
   background: #2f303a;
 }
 .footer-container {
-  padding-top: 60px;
-  padding-bottom: 60px;
 }
 .footer-logo-full {
-  margin-top: 60px;
+  padding-top: 60px;
   margin-bottom: 20px;
 }
 
 .footer-address {
-  margin-bottom: 60px;
+  padding-bottom: 60px;
 }
 .address-item {
 }
